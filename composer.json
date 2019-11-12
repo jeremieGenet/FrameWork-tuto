@@ -1,11 +1,15 @@
 {
-    "name": "jeremie/mon-framework-tuto",
-    "description": "base site themelio.fr v1",
+    "name": "jeremie/mon-framework",
     "authors": [
         {
-            "name": "jamyjam52",
+            "name": "JeremieGenet",
             "email": "jamyjam82377@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4":{
+            "Framework\\": "src/Framework"
+        }
+    },
     "require": {}
 }
