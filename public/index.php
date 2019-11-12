@@ -1,3 +1,12 @@
 <?php
+//
+require '../vendor/autoload.php';
 
-echo("hello world!!!");
+use Framework\App;
+
+
+
+$app = new App();
+$app->run();
+
+//echo("hello world!!!");
