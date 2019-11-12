@@ -1,0 +1,11 @@
+{
+    "name": "jeremie/mon-framework",
+    "description": "base site themelio.fr v1",
+    "authors": [
+        {
+            "name": "jamyjam52",
+            "email": "jamyjam82377@gmail.com"
+        }
+    ],
+    "require": {}
+}
